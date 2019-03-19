@@ -6,11 +6,9 @@
  * @link https://itpeople.ru
  */
 
-
-
-import ClientPlugin from "./lib/ClientPlugin";
-import ServerPlugin from './lib/ServerPlugin';
-import ExpressMiddleware from './lib/ExpressMiddleware';
+import ClientPlugin from './lib/ClientPlugin.mjs';
+import ServerPlugin from './lib/ServerPlugin.mjs';
+import ExpressMiddleware from './lib/ExpressMiddleware.mjs';
 
 export {
   ClientPlugin,
