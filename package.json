@@ -1,0 +1,31 @@
+{
+  "name": "vue-universal-cookie",
+  "version": "1.0.0",
+  "description": "Vue-plugin for working with cookies. ESM only, suppored SSR and Express",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adesin/vue-universal-cookie.git"
+  },
+  "keywords": [
+    "vue",
+    "cookie",
+    "plugin",
+    "ssr",
+    "express",
+    "nodejs",
+    "esm"
+  ],
+  "author": "Anton Desin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adesin/vue-universal-cookie/issues"
+  },
+  "homepage": "https://github.com/adesin/vue-universal-cookie#readme",
+  "dependencies": {
+    "universal-cookie": "^3.0.7"
+  }
+}
