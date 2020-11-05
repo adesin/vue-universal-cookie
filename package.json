@@ -1,6 +1,6 @@
 {
   "name": "vue-universal-cookie",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Vue-plugin for working with cookies. ESM only, suppored SSR and Express",
   "main": "index.mjs",
   "scripts": {
