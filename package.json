@@ -2,6 +2,7 @@
   "name": "vue-universal-cookie",
   "version": "1.0.6",
   "description": "Vue-plugin for working with cookies. ESM only, suppored SSR and Express",
+  "browser": "browser.mjs",
   "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
